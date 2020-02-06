@@ -49,7 +49,7 @@ Implemeted visitAll() in Vector.h and List.h
 ## Part 2
 Times how long it takes to push elements from the front into vectors and lists\
 Times how long it takes to visit elments in vectors and lists\
-Implemented visitAll() in Vector2.h and List.h, and implemented push_front() in Vect2.h
+Implemented visitAll() in Vector2.h and List.h, and implemented push_front() in Vector2.h
 
 ### Vector Timing
 
