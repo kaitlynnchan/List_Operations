@@ -17,7 +17,7 @@ int main( )
     const int N = 10;
 
     // output
-	cout << "[Kaitlynn Chan]\n[301399149]\n[kmc36]\nProgram: [part1]\n";
+	cout << "Program: [part1]\n";
 	cout << "Type of Elements: [int]\nNumber of Elements: [" << N << "]\nTime units: [milliseconds]\n";
 
 	// Insertion of Vector
